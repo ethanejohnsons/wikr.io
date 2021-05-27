@@ -1,0 +1,11 @@
+{
+	"name": "wikr.io",
+	"description": "The main site for Wikr",
+  	"dependencies": {
+    	"eleventy": "^1.0.6"
+  	},
+	"scripts": {
+		"build": "eleventy --input src/",
+		"start": "eleventy --watch --serve --input src/"
+	}
+}

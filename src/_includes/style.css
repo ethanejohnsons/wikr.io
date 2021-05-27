@@ -1,0 +1,17 @@
+html, body {
+	background-color: #222;
+	color: #eee;
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+	padding: 10%;
+}
+
+main {
+	box-sizing: border-box;
+	max-width: 1024px;
+	min-height: 100vh;
+	padding: 2em;
+	margin: 0 auto;
+	background: white;
+}
